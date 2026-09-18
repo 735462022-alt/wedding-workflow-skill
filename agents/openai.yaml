@@ -1,0 +1,4 @@
+interface:
+  display_name: "婚礼筹备超省心"
+  short_description: "将单场婚礼资料整理为确认信息、双线流程海报、筹备清单、执行表与独立主持稿"
+  default_prompt: "请使用 $wedding-workflow-skill（婚礼筹备超省心）整理我提供的本场婚礼资料，先列出事实和待确认项，再制作我指定的交付物。"
